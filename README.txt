@@ -39,3 +39,7 @@ SDT项目文档）运行user_generate_new.py，得到results_one，将results_on
 10.运行main.py，根据提示音指定数据（需取消main.py中第305行的注释），固定笔在机械臂上，开始书写
 
 ！注意：也可略去1-2步直接用本项目自带的results_one中数据书写
+
+迫于学业压力及时间有限，本项目完成仓促，如有疏漏在所难免，如对本项目有任何疑问可致信
+established@sjtu.edu.cn/xushibo811@outlook.com
+
